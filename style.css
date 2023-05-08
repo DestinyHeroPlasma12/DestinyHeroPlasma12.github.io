@@ -1,0 +1,174 @@
+body {
+	background:url(Thing.png);
+	font-family:georgia, garamond, serif;
+}
+
+header {
+	width:600px;
+	background:#2c4785d8;
+	color:#fff;
+	margin:0 auto;
+	padding:15px;
+	text-align:center;
+	border:2px solid #000;
+	border-radius:5px;
+	box-shadow: 0px 2px 5px rgba(0,0,0,0.5);
+}
+
+h1 {
+	font-family:"courier new", sans-serif;
+}
+
+nav ul {
+	display: flex;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	justify-content: center;
+}
+
+nav li {
+	margin: 0 10px;
+}
+
+nav a {
+	text-decoration: none;
+	color: #000;
+	font-weight: bold;
+	border:2px solid #000;
+	border-radius:5px;
+	padding: 10px 15px;
+	background:#fff;
+	transition: background-color 0.3s ease;
+}
+
+nav a:hover {
+	background:#000;
+	color:#fff;
+}
+
+section {
+	width:100%;
+	margin:0 auto;
+	padding:15px;
+	background:#fff;
+	border:2px solid #000;
+	border-radius:5px;
+	box-shadow: 0px 2px 5px rgba(0,0,0,0.5);
+	font-family:Poppins, sans-serif;
+}
+
+.important {
+	font-weight:bold;
+	color:red;
+}
+
+footer {
+	width:600px;
+	background:#4F628E;
+	color:#fff;
+	margin:0 auto;
+	padding:15px;
+	text-align:center;
+	border:2px solid #000;
+	border-radius:5px;
+	box-shadow: 0px 2px 5px rgba(0,0,0,0.5);
+}
+
+#credits {
+	font-size:.7em;
+}
+
+#credits a {
+	color:red;
+}
+
+.Flex {
+	width: 100%;
+	margin: auto;
+}
+
+.Flex2 {
+	display: flex;
+	overflow: hidden;
+	width: 100%;
+	height: 200px;
+	border: 2px solid #000;
+	border-radius: 5px;
+}
+
+.OldPictures {
+	display: flex;
+	margin-left: 0;
+	width: 1000px;
+	height: 500px;
+	border: 2px solid #000;
+	border-radius: 100px;
+	overflow: hidden;
+}
+
+.OldPictures2 {
+	display: flex;
+	width: 1000px;
+	height: 100%;
+	border: 2px solid #000;
+	border-radius: 50px;
+	overflow: hidden;
+}
+
+.OldPictures3 {
+	display: flex;
+	overflow: hidden;
+}
+
+.left { 
+	position: absolute;
+	right: 400px;
+	width: 100%;
+	border: 2px solid #73AD21;
+	padding: 10px;
+}
+
+video {
+	display: block;
+	margin: 0 auto;
+	border-color: #000;
+	border: 5px
+  }
+  .Flex {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	margin-top: 10px;
+	position: relative;
+	width: 100%;
+	overflow: hidden;
+  }
+  
+  .Flex img {
+	position: absolute;
+	left: 0;
+	top: 0;
+	opacity: 0;
+	transition: opacity 0.5s ease-in-out;
+  }
+  
+  .Flex img:first-child {
+	opacity: 1;
+  }
+  
+  #my-art {
+	display: flex;
+	flex-direction: row;
+  }
+  figure {
+	margin: 0;
+	padding: 0;
+  }
+  img {
+	max-width: 100%;
+	height: auto;
+	margin-right: 20px;
+  }
+  
+  
