@@ -1,0 +1,91 @@
+<!doctype html>
+<html>
+	<head>
+		<title>My Journey As An Artist.</title>
+		<link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet">
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+	
+	<body>
+		<header>
+			<h1> <center> My Journey As An Artist </center> </h1>
+		</header>
+		
+		<nav>
+			<ul>
+				<li><a href="./Home.html">Home</a></li>
+			
+				<li><a href="./How I Started.html">How I Started</a></li>
+				<li><a href="./How I kept Going.html">How I Kept Going</a></li>
+				<li><a href="./Challenges.html">Challenges</a></li>
+				<li><a href="./Where I am Currently.html">Where I am Currently</a></li>
+				<li><a href="./Where I am Going.html">Where I am Going</a></li>
+				<li><a href="./What The Future Holds For Me.html">What The Future Holds For me</a></li>
+			</ul>
+		
+		</nav>
+		<section ="my-art">
+			
+			  
+			</figure>
+		  </section>
+		  
+
+		</section>
+	
+				
+	<section>
+				
+			
+				<h1> I am A digital Illustrator </h1>
+				<p> I am an Aspiring Illustrator, Animator, Graphic Designer and it seems like right now a web designer. Now what Exactly do these even mean?</p>
+
+				<h2> Illustrator</h2>
+				<p> Digital Illustrator: A digital illustrator is an artist who uses digital tools, 
+					such as a drawing tablet or graphics software, to create illustrations and graphics. 
+					Digital illustrators may create artwork for various purposes, including advertising, books, comics, and
+					 video games.</p>
+					 <h2> Animator</h2>
+					 <p>  An animator is someone who creates animation using various techniques such as traditional hand-drawn animation, 
+						computer-generated imagery (CGI), or stop-motion animation. Animators work in various fields, including film, television, 
+						video games, and advertising.</p>
+						<h2>Graphic Designer</h2>
+						<p>A graphic designer is a professional who creates visual content to communicate information and messages to the audience. 
+						They may work on a variety of projects, such as designing logos, creating marketing materials, 
+						developing user interfaces, and designing websites</p>
+						<h2> Web Designer </h2>
+						<p> A web designer is a professional who creates and designs websites. 
+							They use various tools and software to create visually appealing and user-friendly websites. 
+							A web designer may work on various aspects of website development, such as creating layouts, 
+							selecting colors and fonts, and optimizing website performance for different devices.</p>
+						<h2> On This Website </h2>
+						<p> The Following On this website Is going to be A Progressive Journey of How Far I have Come This is Sort of a portfolio but also a Personal take of my journey as an artist.</p>
+							
+
+					</section>
+				 
+				 </div>
+			</div>
+
+			<audio autoplay>
+				<source src="./music.mp3" type="audio/mpeg">
+			  </audio>
+			  
+				
+				  
+				
+			</ul>
+			<p>
+				
+		
+		
+		<footer>
+			<p>
+				Daeveon Furjes 2023
+			</p>
+		
+		</footer>
+	
+	
+	</body>
+</html>
